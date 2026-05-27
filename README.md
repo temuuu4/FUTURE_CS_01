@@ -26,7 +26,7 @@ demo.testfire.net
 - Open Network Ports
 - Missing Security Headers
 
-## 📊 Risk Summary
+## Risk Summary
 - Medium Risk: Multiple issues identified
 - Low Risk: Configuration-related issues
 
